@@ -5,4 +5,5 @@
 // import './05.buffer-geometry'
 // import './06.point-line-mesh'
 // import './07.mountain-terrain'
-import './08.material-color-texture'
+// import './08.material-color-texture'
+import './09-texture-uv'
